@@ -1,0 +1,10 @@
+:root {
+  --kitbag-orange-300: rgba(254, 168, 68, 1);
+  --kitbag-orange-500: rgba(212, 80, 66, 1);
+  --kitbag-orange-700: rgba(239, 31, 68, 1);
+  --kitbag-orange-700-75: rgba(239, 31, 68, 0.75);
+
+  --vp-button-brand-bg: var(--kitbag-orange-700-75);
+  --vp-c-brand-1: var(--kitbag-orange-500);
+  --vp-c-brand-2: var(--kitbag-orange-700);
+}

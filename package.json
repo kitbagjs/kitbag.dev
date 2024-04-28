@@ -1,0 +1,22 @@
+{
+  "name": "kitbag.dev",
+  "description": "Home Page for Kitbag.dev",
+  "version": "0.0.1",
+  "main": "index.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitbagjs/kitbag.dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kitbagjs/kitbag.dev/issues"
+  },
+  "homepage": "https://github.com/kitbagjs/kitbag.dev#readme",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.1.4"
+  }
+}
