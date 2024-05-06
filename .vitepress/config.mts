@@ -11,17 +11,17 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      {
+        text: 'About',
+        items: [
+          { text: 'Code of Conduct', link: '/conduct' }
+        ]
+      },
       { text: 'GitHub', link: 'https://github.com/kitbagjs' }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    footer: {
+      message: '<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a>'
+    }
   }
 })
