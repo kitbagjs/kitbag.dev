@@ -11,13 +11,13 @@ hero:
 features:
   - title: Vue Router
     details: Type safe router for Vue.js
-    link: https://kitbag-router.netlify.app/
+    link: https://router.kitbag.dev/
   - title: Mapper
     details: A simple and versatile mapping utility for Typescript
-    link: https://kitbag-mapper.netlify.app/
+    link: https://mapper.kitbag.dev/
   - title: Events
     details: A lightweight event bus written in Typescript
-    link: https://kitbag-events.netlify.app/
+    link: https://events.kitbag.dev/
   - title: More!
     details: Query, Mocks, and more coming!
 ---
