@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: 'About',
         items: [
-          { text: 'Code of Conduct', link: '/conduct' }
+          { text: 'Code of Conduct', link: 'https://github.com/kitbagjs/router?tab=coc-ov-file' }
         ]
       },
       { text: 'GitHub', link: 'https://github.com/kitbagjs' }
