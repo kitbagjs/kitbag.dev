@@ -17,7 +17,7 @@ export default defineConfig({
           { text: 'Code of Conduct', link: 'https://github.com/kitbagjs/router?tab=coc-ov-file' }
         ]
       },
-      { text: 'Discord', link: 'https://discord.gg/UT7JrAxU' },
+      { text: 'Discord', link: 'https://discord.gg/zw7dpcc5HV' },
       { text: 'GitHub', link: 'https://github.com/kitbagjs' }
     ],
 
