@@ -18,7 +18,8 @@ features:
   - title: Events
     details: A lightweight event bus written in Typescript
     link: https://events.kitbag.dev/
-  - title: More!
-    details: Query, Mocks, and more coming!
+  - title: Access
+    details: Type safe attribute-based access control flow
+    link: https://accessor.kitbag.dev/
 ---
 
