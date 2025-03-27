@@ -20,6 +20,6 @@ features:
     link: https://events.kitbag.dev/
   - title: Access
     details: Type safe attribute-based access control flow
-    link: https://accessor.kitbag.dev/
+    link: https://access.kitbag.dev/
 ---
 
